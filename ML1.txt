@@ -1,0 +1,33 @@
+machine learning is a branch of AI that focuses on developing models and algos that 
+let computers learn from data without being explicitly programmed for every task.
+
+ML teaches systems to think and understand like humans by learning from the data.
+
+
+
+data pre processing --> Feature selection ---> Model Training ----> Model evaluation.
+
+problem statement --> Data collection --> data cleaning ---> Feature Engineering ---> Exploratory Data analysis 
+---> data modeling --> model evaluation ---> optimization & Deployment
+
+3 core types of ML
+
+   1. Supervised learning
+        Trains models on labeled data to predict or classify new,unseen data.
+
+   2. Unsupervised learning
+        Finds patterns or groups in unlabeled data like clustering or dimensionality reduction.
+
+   3.Reinforcement learning
+        Learns through trail and errror  to maximize rewards,ideal for decision - making tasks.
+
+Additonal types  --- these are important in real-world applications especially iin deeep learning
+
+     1. Self -supervised learning
+
+        self -supervised learning is often considered as a subset of unsupervised learning, but it has grown into its own field due 
+        to its succcesss in training large -scale models. it generates its own labels from the data, without any manual labeling.
+     2. semi-supervised learning
+
+     This approach combines a samll amount of labeled data with a large amount of unlabeled data.
+     it's useful when labeling data is expensive or time consuming.
