@@ -1,0 +1,12 @@
+Machine learning lifecycle is a structured process that defines how machine learning models are developed,deployed and maintaianed.
+It consists of a series of steps that ensure the model is accurate,reliable and scalable.
+
+
+problem definition --> Data collection ---> Data cleaning & preprocessing --> Exploratory data analysis-->Feature Engineering & selection-->
+-->model selection --> model training--> model Evaluation and tuning --> model deployment --> model monitoring & maintenance
+
+It includes defining the problem ,collecting and preparing data exploring patterns engineering features,training and 
+evaluating models,deploying them into thrm into production and continously monitoring performance to 
+handle issues like darta drift and retraining neeeds.
+
+
