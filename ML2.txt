@@ -10,3 +10,14 @@ evaluating models,deploying them into  production and continously monitoring per
 handle issues like data drift and retraining neeeds.
 
 
+1  Problem definintion 
+
+The first step is identifying andf clearly defining the business problem A well framed problem 
+provides the foundation for the entire life cycle .
+Important things like project objectives desired outcomes and the scope of the task are carefully designed during this stage.
+collabrate with stakeholders to understand business goals.
+Define project objectives scope and success criteria
+Ensure clarity in desired outcomes.
+
+2. Data collection
+
