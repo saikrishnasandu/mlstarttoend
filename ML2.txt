@@ -19,5 +19,6 @@ collabrate with stakeholders to understand business goals.
 Define project objectives scope and success criteria
 Ensure clarity in desired outcomes.
 
+
 2. Data collection
 
