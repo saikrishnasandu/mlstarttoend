@@ -22,3 +22,12 @@ Ensure clarity in desired outcomes.
 
 2. Data collection
 
+Data collection phase invoves systematic collection of datasets that can be used as raw data to train model. 
+The quality and variety of data directly affect the models performance.
+
+Relevance : collected data should be relevant to defined problem and include necessary features.
+Quality :  Ensure data quality by considering factors like accuracy and ethical use.
+Quantity : gather sufficent  data volume to train a robust model.
+
+Diversity :  Include diverse datasets to capture a broad range of scenarios and patterns.
+
